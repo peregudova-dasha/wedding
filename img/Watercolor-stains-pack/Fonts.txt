@@ -1,0 +1,22 @@
+Fonts used in this design;
+
+Font: Arizonia, 
+Author: TypeSETit, 
+Url: http://www.fontsquirrel.com/fonts/arizonia; 
+
+Font: Great Vibes, 
+Author: TypeSETit, 
+Url: http://www.fontsquirrel.com/fonts/great-vibes; 
+
+Font: Lato, 
+Author: tyPoland Lukasz Dziedzic, 
+Url: http://www.fontsquirrel.com/fonts/lato; 
+
+Font: Montez, 
+Author: Astigmatic, 
+Url: http://www.fontsquirrel.com/fonts/montez; 
+
+Font: Jenna Sue, 
+Author: Jenna Sue Design, 
+Url: http://www.fontsquirrel.com/fonts/jenna-sue; 
+
